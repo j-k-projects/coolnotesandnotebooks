@@ -1,6 +1,6 @@
 # A Collection of Cool Notes and Notebooks
 
-This repository serves as a place to collect interesting notes, Jupyter Notebooks, and other resources that may be useful, interesting, or fun.
+This repository serves as a place to collect interesting notes, Jupyter Notebooks, and other resources that may be useful, interesting, or fun. In addition to general organization, this respository will provide useful practice for working with `github` and learning the ways of version control.
 
 ## Notebooks
 
